@@ -12,7 +12,7 @@ function abc() {
 abc();
 
 //Global variables 
-var data = 200;//gloabal variable  
+var data = 200;//global variable  
 function a() {
     console.log(data);
 }

@@ -42,6 +42,7 @@ console.log(11 && 12);
 console.log(21 || 23);
 
 console.log(!!null);
+console.log(!null);
 
 
 console.log(!0)
