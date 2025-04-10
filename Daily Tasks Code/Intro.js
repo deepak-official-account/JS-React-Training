@@ -1,12 +1,3 @@
-// all negative and positive values are true
-//! Js Returns undefined when no return keyword is used inside a method
-//! - symbol not works in case of operator overloading 
-// ! we can use (!) Symbol to convert any data type to boolean
-//? All browsers uses V8 engine for js
-//? Js is not a compiled language
-//? Js is a interpreted language
-// hoisting works for only var 
-//! Null is an object in js
 
 //todo: Variables
 var _name="Deepak";
